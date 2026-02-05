@@ -1,0 +1,11 @@
+{
+    "is_scam": false,
+    "confidence": 0.4,
+    "persona": null,
+    "extracted_intelligence": {
+        "upi_ids": [],
+        "bank_accounts": [],
+        "phishing_links": []
+    },
+    "conversation_log": []
+}   

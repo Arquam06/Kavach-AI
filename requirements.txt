@@ -1,0 +1,5 @@
+requests
+regex
+fastapi
+uvicorn
+pydantic
